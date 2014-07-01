@@ -13,6 +13,7 @@
           
         }
     </script>
+
     
     <apex:form >
         <apex:pageBlock id="errorBlock" rendered="{!noRuleSelected}">
